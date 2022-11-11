@@ -211,7 +211,7 @@
                     <p class="display-3">
                         Learn from <b>Nothing</b> to be <b>Something</b>
                     </p>
-                    <p class="samll">
+                    <p class="small">
                         Learning it up is onine learning and teaching marketplace with over 1000+ course that can improve your skill better
                     </p>
                     <div class="input-group mb-3">
@@ -273,7 +273,7 @@
                         <h5 class="card-title text-primary">$370</h5>
                         <h4 class="card-text">How to Build Foundation for Your Brand</h4>
                         <h6 class="card-title text-success">by John Doe</h6>
-                        <a href="#" class="btn btn-warning">Enroll Now</a>
+                        <a data-bs-toggle="modal" data-bs-target="#login" class="btn btn-warning">Enroll Now</a>
                     </div>
                 </div>
                 <div class="card col-sm-3" style="margin: 10px; padding: 10px;">
@@ -282,7 +282,7 @@
                         <h5 class="card-title text-primary">$500</h5>
                         <h4 class="card-text">Sourse Code Management for Beginners</h4>
                         <h6 class="card-title text-success">by John Doe</h6>
-                        <a href="#" class="btn btn-warning">Enroll Now</a>
+                        <a data-bs-toggle="modal" data-bs-target="#login" class="btn btn-warning">Enroll Now</a>
                     </div>
                 </div>
                 <div class="card col-sm-3" style="margin: 10px; padding: 10px;">
@@ -291,7 +291,7 @@
                         <h5 class="card-title text-primary">$820</h5>
                         <h4 class="card-text">Building Digital Partnership an Ecosystems</h4>
                         <h6 class="card-title text-success">by John Doe</h6>
-                        <a href="#" class="btn btn-warning">Enroll Now</a>
+                        <a data-bs-toggle="modal" data-bs-target="#login"" class="btn btn-warning">Enroll Now</a>
                     </div>
                 </div>
             </div>
@@ -302,28 +302,28 @@
             <p class="h3" style="margin-top: 50px;">Top Category</p>
             <div class="row">
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-primary" style="margin: 50px; width: 120px; height: 120px; color: black;">Bussiness</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-primary" style="margin: 50px; width: 120px; height: 120px; color: black;">Bussiness</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-secondary" style="margin: 50px; width: 120px; height: 120px; color: black;">Cooking</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-secondary" style="margin: 50px; width: 120px; height: 120px; color: black;">Cooking</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-success" style="margin: 50px; width: 120px; height: 120px; color: black;">Design</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-success" style="margin: 50px; width: 120px; height: 120px; color: black;">Design</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-info" style="margin: 50px; width: 120px; height: 120px; color: black;">Mathematic</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-info" style="margin: 50px; width: 120px; height: 120px; color: black;">Mathematic</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-warning" style="margin: 50px; width: 120px; height: 120px; color: black;">Music</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-warning" style="margin: 50px; width: 120px; height: 120px; color: black;">Music</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-danger" style="margin: 50px; width: 120px; height: 120px; color: black;">Photography</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-danger" style="margin: 50px; width: 120px; height: 120px; color: black;">Photography</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-secondary" style="margin: 50px; width: 120px; height: 120px; color: black;">Programming</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-secondary" style="margin: 50px; width: 120px; height: 120px; color: black;">Programming</button>
                 </div>
                 <div class="col-sm-3">
-                    <button type="button" class="btn btn-outline-primary" style="margin: 50px; width: 120px; height: 120px; color: black;">Science</button>
+                    <button data-bs-toggle="modal" data-bs-target="#login" type="button" class="btn btn-outline-primary" style="margin: 50px; width: 120px; height: 120px; color: black;">Science</button>
                 </div>
             </div>
         </div>
