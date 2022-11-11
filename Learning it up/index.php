@@ -240,7 +240,7 @@
                     <li>Lifetime Access</li>
                     <li>Expert Mentor</li>
                 </ul>
-                <button type="button" class="btn btn-warning">Join Now</button>
+                <button data-bs-toggle="modal" data-bs-target="#register" type="button" class="btn btn-warning">Join Now</button>
             </div>
         </div>
     </div>
@@ -258,7 +258,7 @@
                     <li>Award Certificate</li>
                     <li>Expertise License</li>
                 </ul>
-                <button type="button" class="btn btn-warning">Join Now</button>
+                <button data-bs-toggle="modal" data-bs-target="#register" type="button" class="btn btn-warning">Join Now</button>
             </div>
         </div>
     </div>
